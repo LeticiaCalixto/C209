@@ -1,2 +1,2 @@
 # C209
-Projeto de Computação gráfica e Multimidia
+Computer Graphics and Multimedia Classroom Project
